@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378411676306",
+    "project_id": "mopmanager-2074f",
+    "storage_bucket": "mopmanager-2074f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378411676306:android:9ae4242f0903db38df2c4b",
+        "android_client_info": {
+          "package_name": "com.smad.mop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378411676306-hri7dsd2irhd6s8c325rfj6v7mlvjjfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Z6ZkkvIXn1u1LblJuica66aZG5C5M4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378411676306-hri7dsd2irhd6s8c325rfj6v7mlvjjfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
